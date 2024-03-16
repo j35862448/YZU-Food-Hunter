@@ -4,6 +4,6 @@
 
 2.JavaScript Code Deploy on Heroku or Google script
 
-3.Usung Excel For database
+3.Usung GoogleSheet For database(儲存餐廳資料)
 
 https://youtu.be/GlRJyX7c6PE
